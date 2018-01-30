@@ -1,1 +1,14 @@
 Voor zondag 4 februari willen de florissen weten wat we nodig hebben dus zet in dit document wat we nodig hebben.
+
+Raspberry pi 3 Model B
+Voor het runnen van de website/server en het aansturen van de LED Driver*.
+https://www.kiwi-electronics.nl/raspberry-pi-3-model-b?search=raspberry%20pi%203
+
+DMX interface voor Raspberry pi, 3 pins for Model A/B
+Voor het verbinden van de Raspsberry pi aan de led driver.
+
+http://www.bitwizard.nl/shop/DMX-interface-for-Raspberry-pi
+
+
+
+*http://www.tde-lighttech.nl/sites/default/files/ad-lc6_mkii_led_driver_manual_v1_1.pdf
